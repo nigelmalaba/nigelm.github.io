@@ -1,0 +1,12 @@
+html{
+    background-color: rgb(80,0,90); 
+}
+label{
+    font-family: Roboto;
+}
+.headings{
+    font-size: 30;
+}
+#title{
+    font-size: 50;
+}
